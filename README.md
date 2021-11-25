@@ -20,7 +20,7 @@
   ## Usage
   :computer:  Intened for users seeking to find articles on their favorite or trending topics!
   ## License
-  ![badge](https://img.shields.io/badge/license--blueviolet)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   This project was made without a license.
   ## Contributing
   :innocent: PR's welcome
