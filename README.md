@@ -1,5 +1,5 @@
 # Distilled News Hub
-  ![badge](https://img.shields.io/badge/license--blueviolet)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   <br />
   ## Description
   :mag: A distilled news aplication that allows you to search for articles! This can allow you to view articles while you have spare time! Feel free to search for anything of your liking!
@@ -21,7 +21,7 @@
   :computer:  Intened for users seeking to find articles on their favorite or trending topics!
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  This project was made without a license.
+  This project was made with an MIT license.
   ## Contributing
   :innocent: PR's welcome
   ## Tests
